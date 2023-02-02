@@ -1,0 +1,19 @@
+{
+  "name": "telegram_messages_parcer",
+  "version": "1.0.0",
+  "description": "javascript util that apply to convert telegram messages into dataset",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kostanios/telegram_messages_parcer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kostanios/telegram_messages_parcer/issues"
+  },
+  "homepage": "https://github.com/Kostanios/telegram_messages_parcer#readme"
+}
